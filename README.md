@@ -1,1 +1,1 @@
-vnir# -Hand-Gesture-Detection
+nir# -Hand-Gesture-Detection
