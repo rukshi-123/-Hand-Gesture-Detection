@@ -1,1 +1,1 @@
-fvnir# -Hand-Gesture-Detection
+vnir# -Hand-Gesture-Detection
